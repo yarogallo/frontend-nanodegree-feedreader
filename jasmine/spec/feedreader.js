@@ -106,7 +106,7 @@ $(function() {
          */
         it('change visibility when the menu icon is clicked', function() {
             menuIcon.click();
-            expect(mainContainer.hasClass('menu-hidden')).not.toBe(true);
+            expect(mainContainer.hasClass('menu-hidden')).toBe(false);
             menuIcon.click();
             expect(mainContainer.hasClass('menu-hidden')).toBe(true);
         });
