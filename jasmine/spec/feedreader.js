@@ -111,7 +111,7 @@ $(function() {
                 index2Feeds = $('.feed').html();
                 loadFeed(0, function() {
                     index0Feeds = $('.feed').html();
-                    done()
+                    done();
                 });
             });
         });
