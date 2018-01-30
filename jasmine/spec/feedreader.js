@@ -88,7 +88,7 @@ $(function() {
 
     /* TODO: Write a new test suite named "The menu" */
     describe('The menu', function() {
-        let menuIconLink, mainContainer;
+        let menuIcon, mainContainer;
         beforeAll(function() {
             menuIcon = $('.menu-icon-link');
             mainContainer = $('body');
