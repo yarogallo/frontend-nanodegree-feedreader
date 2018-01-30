@@ -26,7 +26,7 @@ Jasmine is a behavior-driven development framework for testing javascript code t
 
 ## Usage
 
-Load index.htm file in a browser of your preference. The site was successfully tested in:
+Load index.html file in a browser of your preference. The site was successfully tested in:
 * **Google Chrome:** Version 62.0.3202.94 (Official Build) (64-bit)
 * **Safari:** Version 11.0.1 (12604.3.5.1.1)
 * **Mozilla Firefox:** Version 56.0.1 (64-bit)
